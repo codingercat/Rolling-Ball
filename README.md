@@ -2,7 +2,7 @@
 This is my first ever 3D game which goes by the name Rolling Ball. To create the game, I used Unity version 2019.4.40f1 and custom C# scripts.
 
 *Game:*
-Here’s a link to the game, thanks to the itch.io and unity team.(It currently supports web browsers only)
+Here’s a link to the game:(It currently supports web browsers only)
 https://shambhavi29.itch.io/rolling-ball
 
 *About the game:*
